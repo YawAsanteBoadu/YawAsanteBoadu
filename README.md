@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YawAsanteBoadu
-- 👀 I’m interested in creativity, researching and constant leaning. 
-- 🌱 I’m currently learning software development @ OpenLabs
+- 👀 I’m interested in creativity, researching and constant learning. 
+- 🌱 I’m currently teaching software development @ OpenLabs
 - 💞️ I’m looking to collaborate on real project, assist and learn
 - 📫 mail: yawasante95@yahoo.com || hisrichabndexo@gmail.com
 - 😄 Pronouns: ...
